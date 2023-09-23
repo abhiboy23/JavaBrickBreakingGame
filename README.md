@@ -3,7 +3,9 @@ This is my first ever project that i have worked on.
 It uses Java's GUI (Swings and awt) to create a brick breaking game.
 # Brick Breaker Game
 
-<img src="Screenshot.png" alt="Brick Breaker Screenshot" width="300"> <!-- Add a screenshot of your game here -->
+<div style="text-align:center;">
+  <img src="Screenshot.png" alt="Brick Breaker Screenshot" width="400">
+</div>
 
 ## Table of Contents
 
